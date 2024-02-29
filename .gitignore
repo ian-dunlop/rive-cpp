@@ -90,3 +90,4 @@ dependencies/windows/cache
 
 # Local development setup
 compile_commands.json
+/.idea
